@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Toan Vo
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Toan
+last_name: Vo
 
 # Status emoji
 status:
@@ -20,92 +20,47 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Junior Computer Science student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Wisconsin - Madison
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:toanvongoduc2004@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/GauMeow
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/toan-vo-5990882a3/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Deep Learning
+  - Data Science
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S. in Computer Science
+    institution: University of Wisconsin - Madison
+    date_start: 2022-09-07
+    date_end: 2026-05-18
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 3.86/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Relevant courses: Data Science Modeling, Artificial Intelligence, Data Structures, Object-Oriented Programming, Multivariate Calculus, Linear Algebra, Deep Learning for Computer Vision, Introduction to Algorithms, Theory of Probability
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Undergraduate Research Assistant
+    company_name: University of Utah, School of Computing
     company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    company_logo: utah
+    date_start: '2024-05-13'
+    date_end: '2024-08-16'
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed a model for predicting tendon robot shape as 3D point clouds based on current tendon displacements with long short-term memory (LSTM), exceeding the previous learning-based technique by 11% in terms of Chamfer distance.
+      - Collaborated in a Bayesian optimization approach for automating surgical retraction by implementing different acquisition functions for optimizing tissue retraction efficiency and improving attachment point detection accuracy.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -115,11 +70,11 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: python
+      - name: Java
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: java-croppe
       - name: SQL
         description: ''
         percent: 40
