@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/projects/</link>
+      <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+    </image>
+    
+    <item>
+      <title>Workspace Manager</title>
+      <link>http://localhost:1313/projects/workspace-manager/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/workspace-manager/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/image.png&#34; alt=&#34;Workspace Manager&#34; title=&#34;Workspace Manager&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Tired of spending valuable time opening multiple applications every time you start a specific task? Look no further – Workspace Manager is here to simplify your workspace management.&lt;/p&gt;
+&lt;p&gt;With Workspace Manager, you can create custom workspaces tailored to your specific projects or tasks. Whether you&amp;rsquo;re diving into a coding session, a design project, or a content creation task, Workspace Manager lets you launch all the necessary apps and tools with just one click. No more searching through your desktop or taskbar – Workspace Manager brings efficiency to the forefront of your workflow.&lt;/p&gt;
+&lt;p&gt;Check out our &lt;a href=&#34;https://github.com/dna737/workspace-manager&#34;&gt;GitHub page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impact of attendance on SAT scores</title>
+      <link>http://localhost:1313/projects/sat-analysis/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sat-analysis/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/image2.png&#34; alt=&#34;SAT analysis&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Check out our report &lt;a href=&#34;../../uploads/report.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our mission is to increase student SAT scores by looking at factors like attendance and what section students focus on when studying for their SATs. We use two datasets in our analysis: The first one includes the mean SAT scores by section of each school in New York (2010); The second one is the enrollment and attendance history of the schools in New York. Our questions of interest include the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Does school attendance have an impact on the total SAT mean score?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Is there any difference in mean SAT Reading and Writing scores?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Through regression analysis and hypothesis testing we will provide statistical insight into these questions. We believe that students SAT scores would benefit from increasing their attendance in school as well as the knowledge that reading and writing are potentially linked thus improving one may have a doubling effect in overall score.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

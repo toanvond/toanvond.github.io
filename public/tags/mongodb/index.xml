@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MongoDB | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/mongodb/</link>
+      <atom:link href="http://localhost:1313/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
+    <description>MongoDB</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>MongoDB</title>
+      <link>http://localhost:1313/tags/mongodb/</link>
+    </image>
+    
+    <item>
+      <title>Workspace Manager</title>
+      <link>http://localhost:1313/projects/workspace-manager/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/workspace-manager/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/image.png&#34; alt=&#34;Workspace Manager&#34; title=&#34;Workspace Manager&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Tired of spending valuable time opening multiple applications every time you start a specific task? Look no further – Workspace Manager is here to simplify your workspace management.&lt;/p&gt;
+&lt;p&gt;With Workspace Manager, you can create custom workspaces tailored to your specific projects or tasks. Whether you&amp;rsquo;re diving into a coding session, a design project, or a content creation task, Workspace Manager lets you launch all the necessary apps and tools with just one click. No more searching through your desktop or taskbar – Workspace Manager brings efficiency to the forefront of your workflow.&lt;/p&gt;
+&lt;p&gt;Check out our &lt;a href=&#34;https://github.com/dna737/workspace-manager&#34;&gt;GitHub page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

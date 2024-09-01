@@ -69,40 +69,40 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: python
       - name: Java
         description: ''
         percent: 100
-        icon: java-croppe
-      - name: SQL
+        icon: java
+      - name: C/C++
         description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+        percent: 70
+        icon: cplusplus
+      - name: R
+        description: ''
+        percent: 50
+        icon: r-project
+  - name: Developer tools
     items:
-      - name: Hiking
+      - name: Git
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: 70
+        icon: git
+      - name: VSCode
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 70
+        icon: vscode
+      - name: RStudio
         description: ''
-        percent: 80
-        icon: camera
+        percent: 50
+        icon: rstudio
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Vietnamese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -138,4 +138,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a junior majoring in Computer Science at the University of Wisconsin - Madison. My academic journey has equipped me with solid skills in algorithms, data structures, deep learning and software development, along with hands-on experience in application development and data analysis. I am particularly passionate about Machine Learning and Deep Learning, and I am eager to explore their potential to solve complex real-world problems.
