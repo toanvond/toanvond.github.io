@@ -87,7 +87,7 @@ skills:
     items:
       - name: Git
         description: ''
-        percent: 70
+        percent: 80
         icon: git
       - name: VSCode
         description: ''

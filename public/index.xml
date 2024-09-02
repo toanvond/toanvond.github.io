@@ -38,10 +38,31 @@
       <link>http://localhost:1313/projects/workspace-manager/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/workspace-manager/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/image.png&#34; alt=&#34;Workspace Manager&#34; title=&#34;Workspace Manager&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Tired of spending valuable time opening multiple applications every time you start a specific task? Look no further – Workspace Manager is here to simplify your workspace management.&lt;/p&gt;
+      <description>&lt;p&gt;Tired of spending valuable time opening multiple applications every time you start a specific task? Look no further – Workspace Manager is here to simplify your workspace management.&lt;/p&gt;
 &lt;p&gt;With Workspace Manager, you can create custom workspaces tailored to your specific projects or tasks. Whether you&amp;rsquo;re diving into a coding session, a design project, or a content creation task, Workspace Manager lets you launch all the necessary apps and tools with just one click. No more searching through your desktop or taskbar – Workspace Manager brings efficiency to the forefront of your workflow.&lt;/p&gt;
-&lt;p&gt;Check out our &lt;a href=&#34;https://github.com/dna737/workspace-manager&#34;&gt;GitHub page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-workspace-manager&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/image.png&#34; alt=&#34;Workspace Manager&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Workspace Manager
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -250,7 +271,7 @@
 
 
 
-&lt;div id=&#34;chart-462718953&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-827631954&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -268,7 +289,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-462718953&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-827631954&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -643,9 +664,7 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/projects/sat-analysis/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/sat-analysis/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/image2.png&#34; alt=&#34;SAT analysis&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Check out our report &lt;a href=&#34;../../uploads/report.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Our mission is to increase student SAT scores by looking at factors like attendance and what section students focus on when studying for their SATs. We use two datasets in our analysis: The first one includes the mean SAT scores by section of each school in New York (2010); The second one is the enrollment and attendance history of the schools in New York. Our questions of interest include the following:&lt;/p&gt;
+      <description>&lt;p&gt;Our mission is to increase student SAT scores by looking at factors like attendance and what section students focus on when studying for their SATs. We use two datasets in our analysis: The first one includes the mean SAT scores by section of each school in New York (2010); The second one is the enrollment and attendance history of the schools in New York. Our questions of interest include the following:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Does school attendance have an impact on the total SAT mean score?&lt;/p&gt;
@@ -655,6 +674,8 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Through regression analysis and hypothesis testing we will provide statistical insight into these questions. We believe that students SAT scores would benefit from increasing their attendance in school as well as the knowledge that reading and writing are potentially linked thus improving one may have a doubling effect in overall score.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/image2.png&#34; alt=&#34;SAT analysis&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Check out our report &lt;a href=&#34;../../uploads/report.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
