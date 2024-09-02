@@ -1,23 +1,13 @@
 ---
 title: Projects
-summary: My courses
-type: landing
+cms_exclude: true
+#url: talk
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
+# View
+view: article-grid
 
-sections:
-  - block: collection
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - projects
-    design:
-      view: article-grid
-      columns: 2
+# Optional cover image (relative to `assets/media/` folder).
+image:
+  caption: ''
+  filename: ''
 ---
