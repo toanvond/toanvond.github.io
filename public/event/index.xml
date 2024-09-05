@@ -5,7 +5,7 @@
     <link>http://localhost:1313/event/</link>
       <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,23 +13,92 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>http://localhost:1313/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <title>Summer Research Internship at the University of Utah</title>
+      <link>http://localhost:1313/event/utah/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/utah/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This past summer, I had the incredible opportunity to work as an Undergraduate Research Assistant at the University of Utah&amp;rsquo;s School of Computing. For three months, I dove deep into the world of medical robotics, focusing on advancing techniques in tendon-driven robotic systems. This experience not only honed my technical skills but also allowed me to collaborate with a brilliant team of researchers. My experience at the University of Utah was both academically challenging and immensely rewarding, helping me grow as a researcher and as a professional.&lt;/p&gt;
+&lt;h2 id=&#34;predicting-tendon-robot-shape&#34;&gt;Predicting Tendon Robot Shape&lt;/h2&gt;
+&lt;video controls&gt;
+  &lt;source src=&#34;http://localhost:1313/videos/IMG_4543.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;p&gt;The data collection process of the tendon robot shown above&lt;/p&gt;
+&lt;p&gt;One of the main projects I tackled was developing a model to predict the shape of a tendon-driven robot. These robots are fascinating because their shapes can be manipulated by adjusting tendon displacements, which are 4 strings wrapped around the tendon robot with different strengths, functioning much like muscles in a human body, pulling and shifting to create movement. However, accurately predicting these shapes, especially in a 3D space, is a complex problem that is ongoing at the time.&lt;/p&gt;
+&lt;p&gt;During my internship, I was tasked with developing a machine learning model that could accurately predict the shape of the robot based on tendon displacement data. The problem had been partially addressed using other techniques, but we needed a more robust and efficient solution, especially for real-time applications.&lt;/p&gt;
+&lt;p&gt;To address this challenge, I employed Long Short-Term Memory (LSTM) networks — a type of recurrent neural network that excels at understanding sequences. My goal was to create a model that could predict the robot&amp;rsquo;s shape as 3D point clouds based on the current tendon displacements. After rigorous testing and iteration, the model exceeded the previous learning-based techniques by 11% in terms of Chamfer distance, a metric used to measure the similarity between point clouds.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-deep-decoder-network-left-the-previous-method-compared-to-lstm-right-where-lstm-slightly-performs-better-than-the-previous-method&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/comparison.png&#34; alt=&#34;Tendon LSTM&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Deep Decoder Network (Left), the previous method, compared to LSTM (Right), where LSTM slightly performs better than the previous method
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;collaborating-on-bayesian-optimization-for-surgical-retraction&#34;&gt;Collaborating on Bayesian Optimization for Surgical Retraction&lt;/h2&gt;
+&lt;p&gt;Another exciting aspect of my internship was collaborating on a project that aimed to automate surgical retraction—a critical task in many medical procedures. Surgical retraction involves the use of tools to hold back tissue, providing the surgeon with better access to the area being operated on. Traditionally, this task requires manual input from surgical assistants, which can be imprecise and prone to human error. Our project sought to automate this process, using machine learning to optimize the positioning and force exerted by robotic retractors.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/group_photo.png&#34; alt=&#34;Group photo&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The team I worked with adopted a Bayesian optimization approach to solve the problem, which is a powerful technique for finding the optimal set of parameters for a given system, particularly when the search space is large and complex. My role involved implementing different acquisition functions, which are used to determine the next point to sample in the optimization process. This approach led to significant improvements in detecting optimal attachment points for surgical tools, bringing us closer to fully automated surgical procedures.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-simulation-of-the-surgical-retraction-on-the-simulated-da-vinci-research-kit-dvrk-robot&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/IMG_4295.png&#34; alt=&#34;Group photo&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Simulation of the surgical retraction on the simulated da Vinci Research Kit (dVRK) robot
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;By integrating various acquisition functions, we were able to find the function that improved the robot positioning and movement, allowing greater precision in revealing hidden areas of tissues more clearly.&lt;/p&gt;
 </description>
     </item>
     

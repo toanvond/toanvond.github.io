@@ -1,7 +1,7 @@
 ---
 title: Workspace Manager
 summary: Streamline your workflow with Workspace Manager – launch all your essential apps and tools for any task with just one click.
-date: 2023-11-11
+date: 2023-11-20
 type: project
 math: false
 tags:

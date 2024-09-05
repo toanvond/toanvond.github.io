@@ -1,7 +1,7 @@
 ---
 title: Impact of attendance on SAT scores
 summary: Analyzing SAT scores and attendance data from NYC schools. Discover how school attendance impacts performance
-date: 2022-12-12
+date: 2022-12-25
 type: project
 math: false
 tags:
