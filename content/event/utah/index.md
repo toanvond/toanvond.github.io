@@ -14,7 +14,7 @@ date: 2024-08-20
 #   postcode: '94305'
 #   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: My unforgettable experience at the ARM Lab in Utah provided valuable hands-on research opportunities, where I applied cutting-edge technologies and collaborated on projects that have the potential to impact the future of healthcare and robotics.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.

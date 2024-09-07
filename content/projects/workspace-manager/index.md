@@ -11,8 +11,12 @@ featured: true
 url_code: https://github.com/dna737/workspace-manager
 ---
 
-Tired of spending valuable time opening multiple applications every time you start a specific task? Look no further – Workspace Manager is here to simplify your workspace management.
+In this project, I worked with a team to develop Workspace Manager, a tool designed to streamline workflow by allowing users to create and manage custom workspaces. The goal of the application was to help users quickly launch all the necessary applications, files, and tools for specific tasks with just one click. This project was built using JavaScript and MongoDB as the backend database.
 
-With Workspace Manager, you can create custom workspaces tailored to your specific projects or tasks. Whether you're diving into a coding session, a design project, or a content creation task, Workspace Manager lets you launch all the necessary apps and tools with just one click. No more searching through your desktop or taskbar – Workspace Manager brings efficiency to the forefront of your workflow.
+My contributions involved implementing the core functionality that allows users to save multiple file paths and applications into a workspace, making it easy to launch them simultaneously. I also worked on user authentication, incorporating encrypted passwords for secure account management and enabling multiple users to create their personalized workspaces.
+
+This project gave me hands-on experience with database management in MongoDB, allowing us to store user preferences and workspace configurations. I also improved my ability to troubleshoot issues and collaborate effectively with a team under tight deadlines. The next steps for the project involve bug fixes and potential integration of Git automation to make workspace management even more seamless.
+
+Overall, Workspace Manager showcases my skills in developing practical tools that enhance user productivity, with a focus on user-friendly design and efficient back-end development.
 
 ![Workspace Manager](/image.png 'Workspace Manager')
