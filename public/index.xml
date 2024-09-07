@@ -21,7 +21,7 @@
 &lt;p&gt;This past summer, I had the incredible opportunity to work as an Undergraduate Research Assistant at the University of Utah&amp;rsquo;s School of Computing, in the Utah Artificial Intelligence and Robotics in Medicine (ARM) Lab led by Dr. Alan Kuntz. For three months, I dove deep into the world of medical robotics, focusing on advancing techniques in tendon-driven robotic systems. This experience not only honed my technical skills but also allowed me to collaborate with a brilliant team of researchers. My experience at the University of Utah was both academically challenging and immensely rewarding, helping me grow as a researcher and as a professional.&lt;/p&gt;
 &lt;h2 id=&#34;predicting-tendon-robot-shape&#34;&gt;Predicting Tendon Robot Shape&lt;/h2&gt;
 &lt;video controls&gt;
-  &lt;source src=&#34;http://localhost:1313/videos/IMG_4543.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;IMG_4543.mp4&#34; type=&#34;video/mp4&#34;&gt;
   Your browser does not support the video tag.
 &lt;/video&gt;
 &lt;p&gt;The data collection process of the tendon robot shown above&lt;/p&gt;
@@ -46,7 +46,14 @@
 
 &lt;figure  id=&#34;figure-deep-decoder-network-left-the-previous-method-compared-to-lstm-right-where-lstm-slightly-performs-better-than-the-previous-method&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/comparison.png&#34; alt=&#34;Tendon LSTM&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Tendon LSTM&#34; srcset=&#34;
+               /event/utah/comparison_hu917842899688811841.webp 400w,
+               /event/utah/comparison_hu8307154731905453764.webp 760w,
+               /event/utah/comparison_hu5340713185528468542.webp 1200w&#34;
+               src=&#34;http://localhost:1313/event/utah/comparison_hu917842899688811841.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Deep Decoder Network (Left), the previous method, compared to LSTM (Right), where LSTM slightly performs better than the previous method
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -71,7 +78,14 @@
 
 &lt;figure  id=&#34;figure-da-vinci-research-kit-dvrk-robot&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/IMG_4532.png&#34; alt=&#34;dVRK&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;dVRK&#34; srcset=&#34;
+               /event/utah/IMG_4532_hu11805555114194642311.webp 400w,
+               /event/utah/IMG_4532_hu5292041122987521890.webp 760w,
+               /event/utah/IMG_4532_hu15844732008137090232.webp 1200w&#34;
+               src=&#34;http://localhost:1313/event/utah/IMG_4532_hu11805555114194642311.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       da Vinci Research Kit (dVRK) robot
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -95,7 +109,14 @@
 
 &lt;figure  id=&#34;figure-experiment-of-the-surgical-retraction-on-the-dvrk-simulation&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/IMG_4295.png&#34; alt=&#34;Simulation&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Simulation&#34; srcset=&#34;
+               /event/utah/IMG_4295_hu3169504240056339831.webp 400w,
+               /event/utah/IMG_4295_hu11116915037186733147.webp 760w,
+               /event/utah/IMG_4295_hu6575657591454957371.webp 1200w&#34;
+               src=&#34;http://localhost:1313/event/utah/IMG_4295_hu3169504240056339831.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;284&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Experiment of the surgical retraction on the dVRK simulation
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -123,7 +144,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/group_photo.png&#34; alt=&#34;Group photo&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Group photo&#34; srcset=&#34;
+               /event/utah/group_photo_hu14613843222847494310.webp 400w,
+               /event/utah/group_photo_hu11429587030215895274.webp 760w,
+               /event/utah/group_photo_hu13597567078321673485.webp 1200w&#34;
+               src=&#34;http://localhost:1313/event/utah/group_photo_hu14613843222847494310.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
@@ -156,7 +184,14 @@
 
 &lt;figure  id=&#34;figure-workspace-manager&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/image.png&#34; alt=&#34;Workspace Manager&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Workspace Manager&#34; srcset=&#34;
+               /projects/workspace-manager/image_hu14899443099680293474.webp 400w,
+               /projects/workspace-manager/image_hu17588487741077846985.webp 760w,
+               /projects/workspace-manager/image_hu3181325103095078584.webp 1200w&#34;
+               src=&#34;http://localhost:1313/projects/workspace-manager/image_hu14899443099680293474.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;397&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Workspace Manager
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -205,7 +240,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/image2.png&#34; alt=&#34;SAT analysis&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SAT analysis&#34; srcset=&#34;
+               /projects/sat-analysis/image2_hu14842124428469607577.webp 400w,
+               /projects/sat-analysis/image2_hu1901449112810700335.webp 760w,
+               /projects/sat-analysis/image2_hu1565937759577204184.webp 1200w&#34;
+               src=&#34;http://localhost:1313/projects/sat-analysis/image2_hu14842124428469607577.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;543&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Check out our report 

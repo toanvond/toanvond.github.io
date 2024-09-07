@@ -19,4 +19,4 @@ This project gave me hands-on experience with database management in MongoDB, al
 
 Overall, Workspace Manager showcases my skills in developing practical tools that enhance user productivity, with a focus on user-friendly design and efficient back-end development.
 
-![Workspace Manager](/image.png 'Workspace Manager')
+![Workspace Manager](image.png 'Workspace Manager')

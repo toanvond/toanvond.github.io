@@ -17,6 +17,6 @@ Our mission is to increase student SAT scores by looking at factors like attenda
 
 Through regression analysis and hypothesis testing we will provide statistical insight into these questions. We believe that students SAT scores would benefit from increasing their attendance in school as well as the knowledge that reading and writing are potentially linked thus improving one may have a doubling effect in overall score.
 
-![SAT analysis](/image2.png)
+![SAT analysis](image2.png)
 
 Check out our report [here](../../uploads/report.html)

@@ -65,7 +65,7 @@ This past summer, I had the incredible opportunity to work as an Undergraduate R
 ## Predicting Tendon Robot Shape
 
 <video controls>
-  <source src="/videos/IMG_4543.mp4" type="video/mp4">
+  <source src="IMG_4543.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -77,17 +77,17 @@ During my internship, I was tasked with developing a machine learning model that
 
 To address this challenge, I employed Long Short-Term Memory (LSTM) networks — a type of recurrent neural network that excels at understanding sequences. My goal was to create a model that could predict the robot's shape as 3D point clouds based on the current tendon displacements. After rigorous testing and iteration, the model exceeded the previous learning-based techniques by 11% in terms of Chamfer distance, a metric used to measure the similarity between point clouds.
 
-![Tendon LSTM](/comparison.png "Deep Decoder Network (Left), the previous method, compared to LSTM (Right), where LSTM slightly performs better than the previous method")
+![Tendon LSTM](comparison.png "Deep Decoder Network (Left), the previous method, compared to LSTM (Right), where LSTM slightly performs better than the previous method")
 
 ## Collaborating on Bayesian Optimization for Surgical Retraction
 
 Another exciting aspect of my internship was collaborating on a project that aimed to automate surgical retraction—a critical task in many medical procedures. Surgical retraction involves the use of tools to hold back tissue, providing the surgeon with better access to the area being operated on. Traditionally, this task requires manual input from surgical assistants, which can be imprecise and prone to human error. Our project sought to automate this process, using machine learning to optimize the positioning and force exerted by robotic retractors.
 
-![dVRK](/IMG_4532.png "da Vinci Research Kit (dVRK) robot")
+![dVRK](IMG_4532.png "da Vinci Research Kit (dVRK) robot")
 
 The team I worked with adopted a Bayesian optimization approach to solve the problem, which is a powerful technique for finding the optimal set of parameters for a given system, particularly when the search space is large and complex. My role involved implementing different acquisition functions, which are used to determine the next point to sample in the optimization process. This approach led to significant improvements in detecting optimal attachment points for surgical tools, bringing us closer to fully automated surgical procedures.
 
-![Simulation](/IMG_4295.png "Experiment of the surgical retraction on the dVRK simulation")
+![Simulation](IMG_4295.png "Experiment of the surgical retraction on the dVRK simulation")
 
 By integrating various acquisition functions, we were able to find the function that improved the robot positioning and movement, allowing greater precision in revealing hidden areas of tissues more clearly.
 
@@ -99,4 +99,4 @@ The work we accomplished—developing predictive models for tendon-driven robots
 
 Overall, my summer at the University of Utah, under the mentorship of Dr. Alan Kuntz, was an unforgettable experience that has shaped my approach to research and problem-solving. I am incredibly grateful for the opportunity to contribute to such impactful projects and to work alongside some of the brightest minds in the field. As I continue my academic journey, I look forward to building on the skills and knowledge I gained during this internship, and I am excited to see where this research leads in the future.
 
-![Group photo](/group_photo.png)
+![Group photo](group_photo.png)
