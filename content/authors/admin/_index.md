@@ -79,7 +79,7 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: python
+        icon: python-custom
       - name: Java
         description: ''
         percent: 100
