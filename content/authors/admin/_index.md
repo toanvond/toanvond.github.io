@@ -124,7 +124,7 @@ awards:
     awarder: Madhacks
     summary: |
       - Biannual hackathon competition. Selected as 1 of 6 finalists out of more than 60 projects
-  - title: ICPC North America Region - Rank 25/116
+  - title: ICPC North America Region - Rank 35/116
     url:
     date: '2023-02-01'
     awarder: ICPC
