@@ -118,18 +118,18 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Machine Learning Marathon 2024 - Third prize
+    url:
+    date: '2024-02-01'
+    awarder: UW Data Science
+    icon:
+    summary: |
   - title: Madhacks 2023 Finalist
     url:
     date: '2023-11-11'
     awarder: Madhacks
     summary: |
       - Biannual hackathon competition. Selected as 1 of 6 finalists out of more than 60 projects
-  - title: ICPC North America Region - Rank 40/116
-    url:
-    date: '2023-02-01'
-    awarder: ICPC
-    icon:
-    summary: |
 ---
 
 ## About Me

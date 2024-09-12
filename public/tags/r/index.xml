@@ -17,16 +17,12 @@
       <link>http://localhost:1313/projects/sat-analysis/</link>
       <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/sat-analysis/</guid>
-      <description>&lt;p&gt;Our mission is to increase student SAT scores by looking at factors like attendance and what section students focus on when studying for their SATs. We use two datasets in our analysis: The first one includes the mean SAT scores by section of each school in New York (2010); The second one is the enrollment and attendance history of the schools in New York. Our questions of interest include the following:&lt;/p&gt;
+      <description>&lt;p&gt;As part of a team of four, we set out to analyze the relationship between school attendance and SAT scores in New York high schools using data from 2010. Our primary objective was to explore how student attendance impacted SAT performance, while also examining differences between SAT reading and writing scores.&lt;/p&gt;
+&lt;p&gt;We worked with two main datasets: the SAT College Board 2010 results, which included mean scores for reading, writing, and math, and a dataset from the NYC Department of Education, detailing daily attendance by school. After pre-processing and merging the data, we used R to run a regression analysis to investigate the correlation between mean SAT scores and average school attendance. Additionally, we conducted hypothesis testing to determine if there was a significant difference between SAT reading and writing scores.&lt;/p&gt;
+&lt;p&gt;Our findings are as follows:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Does school attendance have an impact on the total SAT mean score?&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Is there any difference in mean SAT Reading and Writing scores?&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Impact of Attendance on SAT Scores: Our regression model revealed a positive relationship between school attendance and total SAT scores (sum of reading, writing, and math). The linear regression model predicted that a school with 100% attendance would have an average total SAT score of 1395.292. However, the residual plot suggested that the relationship may be non-linear, indicating that a quadratic model could better represent the data.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Through regression analysis and hypothesis testing we will provide statistical insight into these questions. We believe that students SAT scores would benefit from increasing their attendance in school as well as the knowledge that reading and writing are potentially linked thus improving one may have a doubling effect in overall score.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -46,15 +42,47 @@
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SAT analysis&#34; srcset=&#34;
-               /projects/sat-analysis/image2_hu14842124428469607577.webp 400w,
-               /projects/sat-analysis/image2_hu1901449112810700335.webp 760w,
-               /projects/sat-analysis/image2_hu1565937759577204184.webp 1200w&#34;
-               src=&#34;http://localhost:1313/projects/sat-analysis/image2_hu14842124428469607577.webp&#34;
+               /projects/sat-analysis/image_hu8007387510409428976.webp 400w,
+               /projects/sat-analysis/image_hu16887807423629504061.webp 760w,
+               /projects/sat-analysis/image_hu5486022362280592373.webp 1200w&#34;
+               src=&#34;http://localhost:1313/projects/sat-analysis/image_hu8007387510409428976.webp&#34;
                width=&#34;760&#34;
                height=&#34;543&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Difference Between SAT Reading and Writing Scores: Through hypothesis testing, we found a significant difference between mean SAT reading and writing scores (p-value &amp;lt; 2.2e-16). The mean difference was about 6.54 points, with reading scores typically higher than writing scores. This suggests that improving reading scores does not necessarily result in equivalent gains in writing scores.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SAT analysis&#34; srcset=&#34;
+               /projects/sat-analysis/image2_hu10142886035701783834.webp 400w,
+               /projects/sat-analysis/image2_hu14633620622956661929.webp 760w,
+               /projects/sat-analysis/image2_hu16173688565652375430.webp 1200w&#34;
+               src=&#34;http://localhost:1313/projects/sat-analysis/image2_hu10142886035701783834.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;543&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Our analysis supported the idea that increased attendance has a positive impact on SAT performance, though further research is needed to explore the non-linear relationship indicated by the residuals. This project honed my skills in R programming, regression analysis, and hypothesis testing, while providing an opportunity to collaborate on meaningful educational research.&lt;/p&gt;
 &lt;p&gt;Check out our report 
 &lt;/p&gt;
 </description>
