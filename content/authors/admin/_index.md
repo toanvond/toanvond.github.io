@@ -129,7 +129,6 @@ awards:
     date: '2023-11-11'
     awarder: Madhacks
     summary: |
-      - Biannual hackathon competition. Selected as 1 of 6 finalists out of more than 60 projects
 ---
 
 ## About Me
