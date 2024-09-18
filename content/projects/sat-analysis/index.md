@@ -7,7 +7,7 @@ math: false
 tags:
   - Data Analysis
   - R
-url_pdf: ../../uploads/report.html
+url_pdf: uploads/report.html
 ---
 
 This analysis delves into the relationship between school attendance and SAT scores in New York high schools using data from 2010. The primary aim was to determine if higher attendance rates have a significant impact on students' SAT performance and to explore potential differences between SAT reading and writing scores.
