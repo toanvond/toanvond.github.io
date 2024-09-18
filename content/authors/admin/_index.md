@@ -33,7 +33,7 @@ profiles:
     url: 'mailto:toanvongoduc2004@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/GauMeow
+    url: https://github.com/toanvond
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/toan-vo-5990882a3/
 
