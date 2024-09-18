@@ -26,7 +26,7 @@ sections:
       show_skill_percentage: true
   - block: resume-awards
     content:
-      title: Awards and Leadership
+      title: Awards
       username: admin
   - block: resume-languages
     content:

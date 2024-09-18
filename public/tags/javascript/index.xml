@@ -18,9 +18,7 @@
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/workspace-manager/</guid>
       <description>&lt;p&gt;In this project, I worked with a team to develop Workspace Manager, a tool designed to streamline workflow by allowing users to create and manage custom workspaces. The goal of the application was to help users quickly launch all the necessary applications, files, and tools for specific tasks with just one click. This project was built using JavaScript and MongoDB as the backend database.&lt;/p&gt;
-&lt;p&gt;My contributions involved implementing the core functionality that allows users to save multiple file paths and applications into a workspace, making it easy to launch them simultaneously. I also worked on user authentication, incorporating encrypted passwords for secure account management and enabling multiple users to create their personalized workspaces.&lt;/p&gt;
-&lt;p&gt;This project gave me hands-on experience with database management in MongoDB, allowing us to store user preferences and workspace configurations. I also improved my ability to troubleshoot issues and collaborate effectively with a team under tight deadlines. The next steps for the project involve bug fixes and potential integration of Git automation to make workspace management even more seamless.&lt;/p&gt;
-&lt;p&gt;Overall, Workspace Manager showcases my skills in developing practical tools that enhance user productivity, with a focus on user-friendly design and efficient back-end development.&lt;/p&gt;
+&lt;p&gt;The application supports multiple users, each with the ability to create personalized workspaces. With password-encrypted accounts, it ensures secure access and keeps your workspace configurations private. Users can easily add and store multiple file paths and applications within each workspace, so everything you need for a particular task is just a single action away.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -37,18 +35,18 @@
 
 
 
-&lt;figure  id=&#34;figure-workspace-manager&#34;&gt;
+&lt;figure  id=&#34;figure-password-encryption&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Workspace Manager&#34; srcset=&#34;
-               /projects/workspace-manager/image_hu14899443099680293474.webp 400w,
-               /projects/workspace-manager/image_hu17588487741077846985.webp 760w,
-               /projects/workspace-manager/image_hu3181325103095078584.webp 1200w&#34;
-               src=&#34;http://localhost:1313/projects/workspace-manager/image_hu14899443099680293474.webp&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Password&#34; srcset=&#34;
+               /projects/workspace-manager/password_hu15995198970756600996.webp 400w,
+               /projects/workspace-manager/password_hu14194605477834363925.webp 760w,
+               /projects/workspace-manager/password_hu9877865158993187127.webp 1200w&#34;
+               src=&#34;http://localhost:1313/projects/workspace-manager/password_hu15995198970756600996.webp&#34;
                width=&#34;760&#34;
-               height=&#34;397&#34;
+               height=&#34;286&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      Workspace Manager
+      Password encryption
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
