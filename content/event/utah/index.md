@@ -14,7 +14,7 @@ date: 2024-08-20
 #   postcode: '94305'
 #   country: United States
 
-summary: My unforgettable experience at the ARM Lab in Utah provided valuable hands-on research opportunities, where I applied cutting-edge technologies and collaborated on projects that have the potential to impact the future of healthcare and robotics.
+summary: "Developing Innovative Machine Learning Solutions in Medical Robotics: Predicting Tendon-Driven Robot Shapes with LSTM Networks and Automating Surgical Tasks"
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
@@ -99,4 +99,4 @@ The work we accomplished—developing predictive models for tendon-driven robots
 
 Overall, my summer at the University of Utah, under the mentorship of Dr. Alan Kuntz, was an unforgettable experience that has shaped my approach to research and problem-solving. I am incredibly grateful for the opportunity to contribute to such impactful projects and to work alongside some of the brightest minds in the field. As I continue my academic journey, I look forward to building on the skills and knowledge I gained during this internship, and I am excited to see where this research leads in the future.
 
-![Group photo](group_photo.png)
+![Group photo](group_photo.jpg)

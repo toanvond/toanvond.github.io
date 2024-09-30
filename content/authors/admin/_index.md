@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Junior Computer Science student
+role: Robot and AI Researcher at Utah
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Wisconsin - Madison
+  - name: CS student @ UW-Madison
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -59,8 +59,8 @@ work:
     date_start: '2024-05-13'
     date_end: '2024-08-16'
     summary: |2-
-      - Developed a model for predicting tendon robot shape as 3D point clouds based on current tendon displacements with long short-term memory (LSTM), exceeding the previous learning-based technique by 11% in terms of Chamfer distance.
-      - Collaborated in a Bayesian optimization approach for automating surgical retraction by implementing different acquisition functions for optimizing tissue retraction efficiency and improving attachment point detection accuracy.
+      - Pioneered a machine learning model for predicting tendon robot shape based on current robot configuration using long short-term memory (LSTM), exceeding the previous learning-based technique by 11%.
+      - Engineered a Bayesian optimization approach to automate surgical tasks, improving tissue retraction efficiency and precision, resulting in a 15% boost in efficiency and 10% better attachment point detection accuracy.
   - position: Academic Coach
     company_name: University of Wisconsin - Madison, Division of Diversity, Equity and Educational Achievement
     company_url: ''

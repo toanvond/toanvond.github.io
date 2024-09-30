@@ -43,6 +43,16 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
+    id: research
+    content:
+      title: AI and Robotics Research
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
+  - block: collection
     id: projects
     content:
       title: Projects
@@ -51,7 +61,7 @@ sections:
           - projects
     design:
       view: article-grid
-      columns: 3
+      columns: 2
   # - block: collection
   #   id: papers
   #   content:
@@ -73,16 +83,6 @@ sections:
   #       exclude_featured: false
   #   design:
   #     view: citation
-  - block: collection
-    id: research
-    content:
-      title: Research experience
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
   # - block: collection
   #   id: news
   #   content:

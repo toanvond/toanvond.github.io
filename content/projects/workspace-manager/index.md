@@ -1,12 +1,12 @@
 ---
 title: Workspace Manager
-summary: An app that streamlines workspace management, allowing users to open all necessary files simultaneously.
+summary: Workspace Manager, built with JavaScript and MongoDB, streamlines workflow by allowing users to launch multiple applications simultaneously, securely managing settings and workspaces for efficiency and productivity.
 date: 2023-11-20
 type: project
 math: false
-tags:
-  - MongoDB
-  - Javascript
+# tags:
+#   - MongoDB
+#   - Javascript
 featured: true
 url_code: https://github.com/dna737/workspace-manager
 ---

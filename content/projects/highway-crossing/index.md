@@ -1,12 +1,12 @@
 ---
 title: Highway crossing
-summary: A 3D car highway crossing game using C# and OpenGL
+summary: Highway Crossing, developed with C# and OpenGL, is a 3D car game featuring dynamic obstacles, 3D-rendered visuals, and responsive controls, focusing on collision detection and immersive gameplay.
 date: 2021-04-06
 type: project
 math: false
-tags:
-  - OpenGL
-  - C#
+# tags:
+#   - OpenGL
+#   - C#
 featured: true
 url_code: https://github.com/toanvond/highway-crossing
 url_video: /demo.mp4
