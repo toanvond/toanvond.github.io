@@ -48,7 +48,7 @@ education:
     date_start: 2022-09-07
     date_end: 2026-05-18
     summary: |
-      GPA: 3.86/4.0
+      GPA: 3.85/4.0
       
       Relevant courses: Data Science Modeling, Artificial Intelligence, Data Structures, Object-Oriented Programming, Multivariate Calculus, Linear Algebra, Deep Learning for Computer Vision, Introduction to Algorithms, Matrix Methods in Machine Learning
 work:
