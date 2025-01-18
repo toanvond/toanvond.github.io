@@ -43,14 +43,14 @@ interests:
   - Data Science
 
 education:
-  - area: B.S. in Computer Science
+  - area: B.S. in Computer Science; Minor in Statistics
     institution: University of Wisconsin - Madison
     date_start: 2022-09-07
     date_end: 2026-05-18
     summary: |
-      GPA: 3.85/4.0
+      GPA: 3.75/4.0
       
-      Relevant courses: Data Science Modeling, Artificial Intelligence, Data Structures, Object-Oriented Programming, Multivariate Calculus, Linear Algebra, Deep Learning for Computer Vision, Introduction to Algorithms, Matrix Methods in Machine Learning
+      Relevant courses: Data Science Modeling, Artificial Intelligence, Data Structures, Object-Oriented Programming, Multivariate Calculus, Linear Algebra, Deep Learning for Computer Vision, Introduction to Algorithms, Matrix Methods in Machine Learning, Operating System, Database Management System.
 work:
   - position: Undergraduate Research Assistant
     company_name: University of Utah, School of Computing
