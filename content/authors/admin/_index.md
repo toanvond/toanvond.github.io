@@ -35,7 +35,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/toanvond
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/toan-vo-5990882a3/
+    url: https://www.linkedin.com/in/toannvo/
 
 interests:
   - Machine Learning
@@ -50,7 +50,7 @@ education:
     summary: |
       GPA: 3.75/4.0
       
-      Relevant courses: Data Science Modeling, Artificial Intelligence, Data Structures, Object-Oriented Programming, Multivariate Calculus, Linear Algebra, Deep Learning for Computer Vision, Introduction to Algorithms, Matrix Methods in Machine Learning, Operating System, Database Management System.
+      Relevant courses: Data Science Modeling, Artificial Intelligence, Data Structures, Object-Oriented Programming, Multivariate Calculus, Linear Algebra, Deep Learning for Computer Vision, Introduction to Algorithms, Matrix Methods in Machine Learning, Operating System,  Parallel and Throughput-Optimized Programming.
 work:
   - position: Undergraduate Research Assistant
     company_name: University of Utah, School of Computing

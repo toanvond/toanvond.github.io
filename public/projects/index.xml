@@ -38,10 +38,10 @@
 &lt;figure  id=&#34;figure-password-encryption&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Password&#34; srcset=&#34;
-               /projects/workspace-manager/password_hud60a5e7b0c6c7cefbd6d4247d2435a63_29908_13765265cf1c1731006da8c1be35cc43.webp 400w,
+               /projects/workspace-manager/password_hud60a5e7b0c6c7cefbd6d4247d2435a63_29908_cbf3f4bb568beb6d52cdc4673bdcaf1b.webp 400w,
                /projects/workspace-manager/password_hud60a5e7b0c6c7cefbd6d4247d2435a63_29908_9e488273b54b274b4b9b32f7cd5acf81.webp 760w,
                /projects/workspace-manager/password_hud60a5e7b0c6c7cefbd6d4247d2435a63_29908_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/projects/workspace-manager/password_hud60a5e7b0c6c7cefbd6d4247d2435a63_29908_13765265cf1c1731006da8c1be35cc43.webp&#34;
+               src=&#34;http://localhost:1313/projects/workspace-manager/password_hud60a5e7b0c6c7cefbd6d4247d2435a63_29908_cbf3f4bb568beb6d52cdc4673bdcaf1b.webp&#34;
                width=&#34;760&#34;
                height=&#34;286&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -70,10 +70,10 @@
 &lt;figure  id=&#34;figure-launching-all-workspace-files-at-once&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Password&#34; srcset=&#34;
-               /projects/workspace-manager/test_huc292d4aaee6883b081a0447c3567e79c_995787_e5d6b325ceadce404595413cc49575c7.webp 400w,
+               /projects/workspace-manager/test_huc292d4aaee6883b081a0447c3567e79c_995787_81bc1f52f09317d1b95a4e85183c7086.webp 400w,
                /projects/workspace-manager/test_huc292d4aaee6883b081a0447c3567e79c_995787_6c88347e465e6b901d8362d45945247f.webp 760w,
                /projects/workspace-manager/test_huc292d4aaee6883b081a0447c3567e79c_995787_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/projects/workspace-manager/test_huc292d4aaee6883b081a0447c3567e79c_995787_e5d6b325ceadce404595413cc49575c7.webp&#34;
+               src=&#34;http://localhost:1313/projects/workspace-manager/test_huc292d4aaee6883b081a0447c3567e79c_995787_81bc1f52f09317d1b95a4e85183c7086.webp&#34;
                width=&#34;760&#34;
                height=&#34;406&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -115,10 +115,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SAT analysis&#34; srcset=&#34;
-               /projects/sat-analysis/image_hu7e6c32e0069a5525a73dfb2dda39dc03_28189_f1e4a3204f3468f6280d8ace3cf0c081.webp 400w,
+               /projects/sat-analysis/image_hu7e6c32e0069a5525a73dfb2dda39dc03_28189_88049e7ca2bc86a308cb4fb01ae0ff08.webp 400w,
                /projects/sat-analysis/image_hu7e6c32e0069a5525a73dfb2dda39dc03_28189_dfd0b01739af9a7c021cdd4298fb9b79.webp 760w,
                /projects/sat-analysis/image_hu7e6c32e0069a5525a73dfb2dda39dc03_28189_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/projects/sat-analysis/image_hu7e6c32e0069a5525a73dfb2dda39dc03_28189_f1e4a3204f3468f6280d8ace3cf0c081.webp&#34;
+               src=&#34;http://localhost:1313/projects/sat-analysis/image_hu7e6c32e0069a5525a73dfb2dda39dc03_28189_88049e7ca2bc86a308cb4fb01ae0ff08.webp&#34;
                width=&#34;760&#34;
                height=&#34;543&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -146,10 +146,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SAT analysis&#34; srcset=&#34;
-               /projects/sat-analysis/image2_hucd1ef997da7ac4dfdf76b25ad6fe5dee_18526_d45fd838b9b8a96c2fb589c84d741d0e.webp 400w,
+               /projects/sat-analysis/image2_hucd1ef997da7ac4dfdf76b25ad6fe5dee_18526_0e7acf87f8d3da39b74823979e96ecd9.webp 400w,
                /projects/sat-analysis/image2_hucd1ef997da7ac4dfdf76b25ad6fe5dee_18526_e65ec31878e9260c1083fbc8c80b92a3.webp 760w,
                /projects/sat-analysis/image2_hucd1ef997da7ac4dfdf76b25ad6fe5dee_18526_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/projects/sat-analysis/image2_hucd1ef997da7ac4dfdf76b25ad6fe5dee_18526_d45fd838b9b8a96c2fb589c84d741d0e.webp&#34;
+               src=&#34;http://localhost:1313/projects/sat-analysis/image2_hucd1ef997da7ac4dfdf76b25ad6fe5dee_18526_0e7acf87f8d3da39b74823979e96ecd9.webp&#34;
                width=&#34;760&#34;
                height=&#34;543&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -185,10 +185,10 @@
 &lt;figure  id=&#34;figure-texture&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Texture&#34; srcset=&#34;
-               /projects/highway-crossing/TEXTURE_hu59f96184ec05421e6ef2644154f7b161_566877_c6b8ada63e66bdc979ef0bd5e69a5f6b.webp 400w,
+               /projects/highway-crossing/TEXTURE_hu59f96184ec05421e6ef2644154f7b161_566877_4b89bbcc54835985d7fa6b9e040cd735.webp 400w,
                /projects/highway-crossing/TEXTURE_hu59f96184ec05421e6ef2644154f7b161_566877_dfc1d938afe1d5c4c6a2c0d5901b7566.webp 760w,
                /projects/highway-crossing/TEXTURE_hu59f96184ec05421e6ef2644154f7b161_566877_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/projects/highway-crossing/TEXTURE_hu59f96184ec05421e6ef2644154f7b161_566877_c6b8ada63e66bdc979ef0bd5e69a5f6b.webp&#34;
+               src=&#34;http://localhost:1313/projects/highway-crossing/TEXTURE_hu59f96184ec05421e6ef2644154f7b161_566877_4b89bbcc54835985d7fa6b9e040cd735.webp&#34;
                width=&#34;760&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
