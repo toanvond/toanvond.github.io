@@ -48,14 +48,24 @@ education:
     date_start: 2022-09-07
     date_end: 2026-05-18
     summary: |
-      GPA: 3.75/4.0
+      GPA: 3.74/4.0
       
-      Relevant courses: Data Science Modeling, Artificial Intelligence, Data Structures, Object-Oriented Programming, Multivariate Calculus, Linear Algebra, Deep Learning for Computer Vision, Introduction to Algorithms, Matrix Methods in Machine Learning, Operating System,  Parallel and Throughput-Optimized Programming.
+      Relevant courses: Data Science Modeling, Artificial Intelligence, Data Structures, Object-Oriented Programming, Multivariate Calculus, Linear Algebra, Deep Learning for Computer Vision, Introduction to Algorithms, Matrix Methods in Machine Learning, Operating System,  Parallel and Throughput-Optimized Programming, Database Management System, Probability Theory
 work:
+  - position: Software Engineer Intern
+    company_name: Viettel Group
+    company_url: 
+    company_logo: 
+    date_start: '2025-06-01'
+    date_end: '2025-09-04'
+    summary: |-
+      - Evaluated and benchmarked multiple AI models for emerging AI-powered code-refactoring tools to automate performance optimizations across the codebase in a GPU-constrained environment.
+      - Containerized and standardized AI model evaluation environments using Docker, and orchestrated local LLM inference workflows via Ollama to ensure reproducible, efficient testing.
+      - Authored & delivered a comprehensive presentation to senior engineers, detailing expected developer productivity improvements, compute requirements, and deployment recommendations without dedicated GPU infrastructure.
   - position: Undergraduate Research Assistant
     company_name: University of Utah, School of Computing
     company_url: ''
-    company_logo: utah
+    company_logo: ''
     date_start: '2024-05-13'
     date_end: '2024-08-16'
     summary: |2-
