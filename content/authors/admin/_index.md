@@ -24,7 +24,7 @@ role: AI Semantics Researcher at UW-Madison
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: CS student @ UW-Madison
+  - name: Incoming MSCS student @ UMD
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -40,15 +40,18 @@ profiles:
 interests:
   - Machine Learning
   - Deep Learning
-  - Data Science
 
 education:
+  - area: M.S. in Computer Science
+    institution: University of Maryland - College Park
+    date_start: 2026-08-31
+    date_end: 
   - area: B.S. in Computer Science; Minor in Statistics, Mathematics
     institution: University of Wisconsin - Madison
     date_start: 2022-09-07
     date_end: 2026-05-18
     summary: |
-      GPA: 3.74/4.0
+      GPA: 3.7/4.0
       
       Relevant courses: Algorithms, Data Structures, Statistical Modeling, Object-Oriented Programming, Operating Systems, Database Systems, Probability Theory, Linear Algebra, Optimization, Deep Learning, Interpretable ML
 work:
@@ -94,29 +97,29 @@ skills:
         icon: python-custom
       - name: Java
         description: ''
-        percent: 100
+        percent: 80
         icon: java
+      - name: R
+        description: ''
+        percent: 80
+        icon: r-project
       - name: C/C++
         description: ''
         percent: 70
         icon: cplusplus
-      - name: R
-        description: ''
-        percent: 50
-        icon: r-project
   - name: Developer tools
     items:
+      - name: VSCode
+        description: ''
+        percent: 90
+        icon: vscode
       - name: Git
         description: ''
         percent: 80
         icon: git
-      - name: VSCode
-        description: ''
-        percent: 70
-        icon: vscode
       - name: RStudio
         description: ''
-        percent: 50
+        percent: 70
         icon: rstudio
 
 languages:
@@ -145,4 +148,8 @@ awards:
 
 ## About Me
 
-I am a senior majoring in Computer Science at the University of Wisconsin - Madison. My academic journey has equipped me with solid skills in algorithms, data structures, deep learning and software development, along with hands-on experience in application development and data analysis. I am particularly passionate about deep learning interpretability, and I am driven to understand the underlying factors that influence model reliability and performance.
+I'm an incoming Master's student in Computer Science at University of Maryland -- College Park. I earned a B.S. in Computer Science at the University of Wisconsin -- Madison with certificate in Statistics and Math.
+
+My academic journey has equipped me with solid skills in algorithms, data structures, deep learning and software development, along with hands-on experience in application development and data analysis.
+
+I am particularly passionate about deep learning interpretability, and I am driven to understand the underlying factors that influence model reliability and performance.
